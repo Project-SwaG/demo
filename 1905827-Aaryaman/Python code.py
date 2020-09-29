@@ -1,2 +1,2 @@
-print("Aaryaman Bhardwaj")
+print("Aaryaman")
 print("KIIT")
